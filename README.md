@@ -1,5 +1,6 @@
-# My pretty basic React starter
+# Playing with Draft.js
 
-* React
-* Webpack + HMR
-* CSS Modules
+Running:
+1. `npm install`
+2. `npm start`
+3. Open in browser `http://localhost:5555`
